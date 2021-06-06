@@ -1,0 +1,4 @@
+{
+    "book1": {"author": ["Me", "Sidrit"], "title": "whatever", "publishingHouse": "Albas", "price": 100},
+    "book2": {"author": ["Me"], "title": "whatever2", "publishingHouse": "Albas", "price": 1000}
+}
